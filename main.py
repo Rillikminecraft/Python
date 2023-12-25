@@ -1,4 +1,4 @@
-import telebot
+import telebot # несоветую использовать данный код так как он очень плохой, лутше зделайте сами или используйте что-то другое (этот я писал только когда начинал кодить на Python
 from telebot import types
 
 bot = telebot.TeleBot('')
